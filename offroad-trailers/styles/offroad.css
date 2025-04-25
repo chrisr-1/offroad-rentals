@@ -43,6 +43,12 @@
     align-content: center;
     margin: auto;
   }
+  figure {
+    display: grid;
+    margin: 1rem, auto;
+    justify-content: center;
+    align-items: center;
+  }
   body {
     background-color: rgb(235, 224, 209);
   }
